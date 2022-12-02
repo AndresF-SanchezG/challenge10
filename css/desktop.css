@@ -1,0 +1,38 @@
+body {
+    width: 100%;
+    height: 100vh;
+}
+
+main {
+    width: 100%;
+    height: 100vh;
+    margin-top: 40px;
+}
+
+.product-detail  {
+    width: 600px;
+    margin-left: calc(50% - 300px);
+}
+
+.cards-container {
+ height: 550px;
+}
+
+.team-card {
+    bottom: 300px;
+}
+
+.karma-card {
+    bottom: 300px;
+    margin-bottom: 0px;
+}
+
+.calculator-card {
+    bottom: 725px;
+    left: calc(50% + 185px);
+}
+
+.supervisor-card {
+    top: 127px;
+    left: calc(50% - 500px);
+}
